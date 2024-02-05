@@ -1,6 +1,4 @@
-# pikachu-dracaufeu
-DM reverse sur pikachu.exe
-# Contenu du dépôt
+# DM reverse sur pikachu.exe
 
 Le dépôt contient les fichiers suivants :
  - **pikachu.exe** : L'éxécutable unpacké
